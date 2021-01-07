@@ -226,8 +226,8 @@ body {
         flex-direction: column;
         min-height: 2.5rem;
         margin-bottom: 2rem;
-        width: 33.33%;
         @media only screen and (max-width: 45em) {
+          width: 33.33%;
           margin-bottom: 0.5rem;
         }
         &:last-child {
